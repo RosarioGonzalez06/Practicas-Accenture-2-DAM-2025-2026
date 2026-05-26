@@ -109,6 +109,19 @@ A lo largo de estas prácticas he utilizado diferentes herramientas y tecnologí
 
 ---
 
+## Conocimientos adquiridos por cada módulo profesional
+
+A lo largo de las prácticas, he podido aplicar de forma práctica varios de los conocimientos vistos en los módulos de este curso:
+
+* **Optativa:** He desarrollado *mocks* para realizar pruebas unitarias (*testing*) con APIs. Un *mock* se usa para simular la respuesta de la API, lo que me ha permitido probar el código sin necesidad de hacer peticiones reales a otros servidores ni depender de la conexión a internet.
+* **Acceso a Datos:** He trabajado bastante con **LWC (Lightning Web Components)**. Es una tecnología muy similar a Angular, ya que también se basa en componentes con HTML, CSS y JavaScript. Aunque en Angular utilizábamos TypeScript, al final JavaScript es muy parecido, por lo que la manera en la que se conectan y manejan los datos por pantalla me ha resultado muy familiar gracias a lo aprendido en clase.
+* **Desarrollo de Interfaces:** Durante el desarrollo de los distintos componentes, he aprendido la importancia de mantener el código limpio y organizado, acostumbrándome a documentar correctamente cada método de las clases para explicar su funcionamiento y facilitar el trabajo en equipo.
+* **Sistemas de Gestión Empresarial:** Gran parte de la asignatura trata sobre los sistemas CRM. Al haber estado trabajando con **Salesforce** (el CRM más utilizado), me ha servido para entender de primera mano cómo las empresas gestionan a sus clientes, sus ventas y automatizan sus procesos de negocio.
+* **Inglés:** Todo el entorno de trabajo, los recursos y la documentación de Salesforce están en inglés. Además, he tenido que utilizarlo a diario para comunicarme, ya que participaba en reuniones (*dailys*) con compañeros de otros países, como por ejemplo la India.
+* **Proyecto Intermodular:** Me ha servido para comprobar cómo es la organización real de un proyecto en el mundo laboral. He aprendido a trabajar con metodologías ágiles y a utilizar herramientas como **Jira** para hacer el seguimiento de las tareas (*tickets*) y coordinarme con el equipo.
+
+---
+
 ## Valoración Personal
 
-Me ha encantado la experiencia y he aprendido muchísimo sobre **Salesforce**, una plataforma en la que llevaba bastantes años interesada. Todos los compañeros se han portado genial y me han ayudado siempre que ha hecho falta. Además, valoro muy positivamente haber podido participar de forma activa y directa en los proyectos reales. También ha sido una excelente oportunidad para desenvolverme profesionalmente en inglés, ya que he participado en reuniones diarias (*dailys*) con compañeros de otros países y todo el entorno de desarrollo y documentación de Salesforce se maneja en este idioma.
+Me ha encantado la experiencia y he aprendido muchísimo sobre **Salesforce**, una plataforma en la que llevaba bastantes años interesada. Todos los compañeros se han portado genial y me han ayudado siempre que ha hecho falta. Además, valoro muy positivamente haber podido participar de forma activa y directa en los proyectos reales.
