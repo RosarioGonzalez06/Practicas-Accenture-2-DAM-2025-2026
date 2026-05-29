@@ -103,9 +103,11 @@ A lo largo de estas prácticas he utilizado diferentes herramientas y tecnologí
 ---
 
 ### Semana 12 (25/05/2026 – 29/05/2026)
-> **Proyecto Sales Cloud — continuación**
+> **Componentes LWC, Flow y Testing**
 
 * Modificación y mejora de componentes LWC de la pantalla de gestiones.
+* Desarrollo de un **Flow** para reporte de casos
+* Testing para varias clases Apex
 
 ---
 
