@@ -16,7 +16,7 @@ Este repositorio recoge el diario de prácticas realizadas en **Accenture** dura
 
 ---
 
-## Diario de Prácticas de Rosario González Ortiz
+# Diario de Prácticas de Rosario González Ortiz
 
 A lo largo de estas prácticas he utilizado diferentes herramientas y tecnologías centradas en Salesforce, incluyendo **Apex** para el desarrollo backend, **Lightning Web Components (LWC)** para el frontend, automatizaciones mediante **Salesforce Flow**, y herramientas de inteligencia artificial generativa como **Salesforce Einstein AI**, todo ello aplicado en los entornos de **Commerce Cloud B2B** y **Sales Cloud**.
 
@@ -127,3 +127,9 @@ A lo largo de las prácticas, he podido aplicar de forma práctica varios de los
 ## Valoración Personal
 
 Me ha encantado la experiencia y he aprendido muchísimo sobre **Salesforce**, una plataforma en la que llevaba bastantes años interesada. Todos los compañeros se han portado genial y me han ayudado siempre que ha hecho falta. Además, valoro muy positivamente haber podido participar de forma activa y directa en los proyectos reales.
+
+---
+
+## Video
+
+[![Ver demo](https://img.youtube.com/vi/1Pf4QcEHg0A/0.jpg)](https://youtu.be/1Pf4QcEHg0A?si=RyQ0Y4FA0CcMoNVP)
